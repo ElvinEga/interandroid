@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">interIntel App</string>
+    <string name="title_activity_maps">InterIntel</string>
+
+    <!-- LoginActivity. -->
+    <string name="interintel">Interintel</string>
+    <string name="action_logout">Logout</string>
+    <string name="hint_phone">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="err_msg_phone">Enter your Email</string>
+    <string name="err_msg_phone_valid">Email not valid</string>
+    <string name="err_msg_password">Enter the Password</string>
+    <array name="dot_colors">
+        <item>#2ecc71</item>
+        <item>#e74c3c</item>
+        <item>#FFBB00</item>
+    </array>
+</resources>
